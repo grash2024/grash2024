@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajath R Shetty
+- 👋 Hi, I’m Rajath Shetty
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web development
 <!---
